@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey y'all!
+
+My name is Jacob Chapman, and I'm a creative audio, video, and lighting engineer with over ten years of professional experience in AVL systems design and integration, project management, live events, recording, and post-production. So why am I on GitHub?
+
+My hyperfocus lately has been in A/V control systems and automation, and the tool I keep finding myself using the most is an open source project hosted here called Bitfocus Companion.
+
+I'm the active maintainer of the [Atlona Omega Series module](https://github.com/bitfocus/companion-module-atlona-omega) for Companion. It's been a fun side-project in teaching myself TypeScript and the GitHub work flow.
+
+You can reach me by email, or find more of my A/V portfolio over at [ChapmanSound.com](https://www.chapmansound.com)
 
 <!--
 **jake2k3/jake2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
